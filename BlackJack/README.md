@@ -1,7 +1,5 @@
 Implement BlackJackTester to play BlackJack
 
-Implement Simulation to run MonteCarlo on BlackJack, in which the human player is using the winning strategy.
-
 1. Cards
 This class represents a deck of cards. It is implemented by using an ArrayList, in which each card is a String telling the suit and the rank of the card. The deck deals a card by randomly drawing a card from the deck. 
 
